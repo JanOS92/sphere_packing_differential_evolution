@@ -2,7 +2,7 @@
 This project shows an approach of dense sphere packing by the evolutionary algorithm "Differential Evolution"
 
 # Run the Project
-Start MATLAB, open the project directory and run the code as follows:
+Start MATLAB, open the project directory and run the code from the (MATLAB) Command Window as follows:
 ```
 Kugelpackung_GUI
 ```
